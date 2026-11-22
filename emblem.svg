@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <clipPath id="cm100100color"><circle cx="100" cy="100" r="92"/></clipPath>
+    <g clip-path="url(#cm100100color)">
+      <rect x="8" y="8" width="92" height="184" fill="#F1EEF8"/>
+      <rect x="100" y="8" width="92" height="184" fill="#1A1636"/>
+    </g>
+    <circle cx="100" cy="100" r="92" fill="none" stroke="#3B3470" stroke-width="3.22"/>
+    <line x1="88.03999999999999" y1="100" x2="98.16" y2="100" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="80.22560892205709" y1="118.86560892205708" x2="87.38152954766495" y2="126.02152954766495" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="61.36" y1="126.68" x2="61.36" y2="136.8" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="42.494391077942915" y1="118.86560892205709" x2="35.338470452335045" y2="126.02152954766495" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="34.68" y1="100" x2="24.559999999999995" y2="100" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="42.49439107794291" y1="81.13439107794292" x2="35.338470452335045" y2="73.97847045233505" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="61.35999999999999" y1="73.32" x2="61.35999999999999" y2="63.199999999999996" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><line x1="80.22560892205709" y1="81.13439107794291" x2="87.38152954766494" y2="73.97847045233505" stroke="#F5A524" stroke-width="6.44" stroke-linecap="round"/><circle cx="61.36" cy="100" r="18.400000000000002" fill="#FFC94D" stroke="#F5A524" stroke-width="4.14"/>
+    
+    <mask id="m100100color"><rect x="8" y="8" width="184" height="184" fill="#fff"/>
+      <circle cx="150.60000000000002" cy="92.272" r="22.631999999999998" fill="#000"/></mask>
+    <circle cx="136.8" cy="100" r="27.599999999999998" fill="#7B8FD6" mask="url(#m100100color)"/></svg>
